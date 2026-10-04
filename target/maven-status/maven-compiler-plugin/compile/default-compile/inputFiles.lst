@@ -1,0 +1,16 @@
+C:\Users\suraj\.gemini\antigravity\scratch\jwt-auth-service\src\main\java\com\example\jwtauth\repository\UserRepository.java
+C:\Users\suraj\.gemini\antigravity\scratch\jwt-auth-service\src\main\java\com\example\jwtauth\controller\AuthController.java
+C:\Users\suraj\.gemini\antigravity\scratch\jwt-auth-service\src\main\java\com\example\jwtauth\security\AuthEntryPointJwt.java
+C:\Users\suraj\.gemini\antigravity\scratch\jwt-auth-service\src\main\java\com\example\jwtauth\controller\ProtectedController.java
+C:\Users\suraj\.gemini\antigravity\scratch\jwt-auth-service\src\main\java\com\example\jwtauth\dto\RegisterRequest.java
+C:\Users\suraj\.gemini\antigravity\scratch\jwt-auth-service\src\main\java\com\example\jwtauth\model\User.java
+C:\Users\suraj\.gemini\antigravity\scratch\jwt-auth-service\src\main\java\com\example\jwtauth\JwtAuthApplication.java
+C:\Users\suraj\.gemini\antigravity\scratch\jwt-auth-service\src\main\java\com\example\jwtauth\model\Role.java
+C:\Users\suraj\.gemini\antigravity\scratch\jwt-auth-service\src\main\java\com\example\jwtauth\security\JwtUtils.java
+C:\Users\suraj\.gemini\antigravity\scratch\jwt-auth-service\src\main\java\com\example\jwtauth\security\AuthTokenFilter.java
+C:\Users\suraj\.gemini\antigravity\scratch\jwt-auth-service\src\main\java\com\example\jwtauth\security\UserDetailsImpl.java
+C:\Users\suraj\.gemini\antigravity\scratch\jwt-auth-service\src\main\java\com\example\jwtauth\dto\LoginRequest.java
+C:\Users\suraj\.gemini\antigravity\scratch\jwt-auth-service\src\main\java\com\example\jwtauth\dto\MessageResponse.java
+C:\Users\suraj\.gemini\antigravity\scratch\jwt-auth-service\src\main\java\com\example\jwtauth\security\WebSecurityConfig.java
+C:\Users\suraj\.gemini\antigravity\scratch\jwt-auth-service\src\main\java\com\example\jwtauth\security\UserDetailsServiceImpl.java
+C:\Users\suraj\.gemini\antigravity\scratch\jwt-auth-service\src\main\java\com\example\jwtauth\dto\JwtResponse.java
